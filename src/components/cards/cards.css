@@ -1,0 +1,10 @@
+.cardsContainer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  
+}
+.cardsWrap{
+  display: flex;
+}

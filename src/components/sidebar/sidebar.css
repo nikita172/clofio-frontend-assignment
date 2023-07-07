@@ -1,0 +1,32 @@
+.sidebar{
+  background-color: #ADD8E6;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  bottom:5px;
+  top:5px;
+  height: auto;
+}
+.siderbarTop{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.cloudImg{
+  width: 50px;
+  height: 50px;
+}
+.boxImg{
+  margin-top: 15px;
+  width: 30px;
+  height:30px;
+}
+.nameIcon{
+  padding:10px;
+  background-color: rgb(201, 172, 248);
+  border-radius: 50%;
+  font-family: "Roboto";
+  margin-bottom: 20px;
+}
